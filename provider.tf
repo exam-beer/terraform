@@ -1,4 +1,4 @@
 provider "github" {
-    token = "b22a685c766c3bbd2da3d755e0c5603d48385267"
+    token = "d4aa438b63863593ec752f52a974323e1d60137d"
     organization = "ritter-terraformexam"
 }
